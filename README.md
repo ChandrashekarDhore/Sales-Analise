@@ -1,5 +1,7 @@
 # Sales-Analise Using python
 This project is a Sales Analyzer built using Python. It reads and processes sales data from CSV files, performs data analysis, and generates meaningful business insights.
+
+
 Features --------
 Calculate total revenue and total orders
 Track total quantity sold
@@ -9,6 +11,8 @@ Find top customers by revenue
 Generate daily revenue reports
 Calculate revenue within a custom date range
 Export category-specific data to separate CSV files
+
+
 Technologies Used --------
 Python
 File Handling (CSV)
